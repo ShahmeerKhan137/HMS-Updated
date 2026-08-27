@@ -1,5 +1,5 @@
 Clone the respostiry to local:<br>
-git clone https://github.com/Ashir-Qayyum/hms-microservices-app-docker-compose.git<br>
+> git clone https://github.com/Ashir-Qayyum/hms-microservices-app-docker-compose.git<br>
 
 To Deploy the application locally on docker containers, run the commands:<br>
 
